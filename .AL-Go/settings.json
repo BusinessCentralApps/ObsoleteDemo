@@ -8,5 +8,6 @@
     ],
     "testFolders":  [
     ],
-    "DoNotBuildTests":  true
+    "DoNotRunTests":  true,
+    "DoNotRunBCPTTests":  true
 }
