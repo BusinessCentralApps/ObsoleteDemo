@@ -17,6 +17,7 @@
     }
   ],
   "application": "19.0.0.0",
+  "runtime": "8.0",
   "contextSensitiveHelpUrl": "https://AppSourceCopTest.com/help/",
   "resourceExposurePolicy": {
     "allowDebugging": true,
