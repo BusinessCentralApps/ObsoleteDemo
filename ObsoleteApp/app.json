@@ -1,32 +1,28 @@
-﻿{
-    "id":  "0fb0203a-1c23-45c2-bc9e-50042b177f55",
-    "name":  "ObsoleteApp",
-    "publisher":  "Freddy",
-    "version":  "1.0.0.0",
-    "brief":  "",
-    "description":  "",
-    "privacyStatement":  "",
-    "EULA":  "",
-    "help":  "",
-    "url":  "",
-    "logo":  "",
-    "dependencies":  [
-
-                     ],
-    "screenshots":  [
-
-                    ],
-    "platform":  "1.0.0.0",
-    "application":  "19.0.0.0",
-    "idRanges":  [
-                     {
-                         "from":  4000000,
-                         "to":  4000010
-                     }
-                 ],
-    "resourceExposurePolicy":  {
-                                   "allowDebugging":  true,
-                                   "allowDownloadingSource":  false,
-                                   "includeSourceInSymbolFile":  false
-                               }
+{
+  "id": "a3fe8b08-c1ce-4194-aedf-a677bf5b7eb3",
+  "name": "AppSourceCopTest",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "https://AppSourceCopTest.com/help/",
+  "description": "https://AppSourceCopTest.com/help/",
+  "privacyStatement": "https://AppSourceCopTest.com/help/",
+  "EULA": "https://AppSourceCopTest.com/help/",
+  "help": "https://AppSourceCopTest.com/help/",
+  "url": "https://AppSourceCopTest.com/help/",
+  "logo": "logo.png",
+  "idRanges": [
+    {
+      "from": 1000000,
+      "to": 1000049
+    }
+  ],
+  "application": "19.0.0.0",
+  "contextSensitiveHelpUrl": "https://AppSourceCopTest.com/help/",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "features": ["TranslationFile"],
+  "applicationInsightsConnectionString": "a3fe8b08-c1ce-4194-aedf-a677bf5b7eb3"
 }
