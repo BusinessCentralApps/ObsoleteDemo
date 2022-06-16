@@ -2,5 +2,5 @@
     "artifact":  "//19.5//latest",
     "cacheImageName":  "",
     "versioningStrategy":  15,
-    "obsoleteTagMinAllowedMajorMinor": "17.0"
+    "obsoleteTagMinAllowedMajorMinor": "18.0"
 }
