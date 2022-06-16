@@ -1,9 +1,10 @@
 {
     "country":  "us",
     "AppSourceCopMandatoryAffixes":  [
-        "<affix>"
+        "FOO"
     ],
     "appFolders":  [
+        "ObsoleteApp"
     ],
     "testFolders":  [
     ]
