@@ -1,5 +1,6 @@
 ﻿{
     "type":  "AppSource App",
     "templateUrl":  "https://github.com/microsoft/AL-Go-AppSource@main",
-    "runs-on":  "bc-build"
+    "runs-on":  "bc-build",
+    "updateDependencies":  true
 }
