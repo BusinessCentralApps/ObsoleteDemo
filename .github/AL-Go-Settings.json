@@ -2,5 +2,6 @@
   "type": "AppSource App",
   "templateUrl": "https://github.com/freddydk/AL-Go@PSScriptAnalyzer",
   "runs-on": "bc-build",
-  "updateDependencies": true
+  "updateDependencies": true,
+  "licenseFileUrlSecretName": ""
 }
