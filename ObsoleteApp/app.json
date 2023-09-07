@@ -16,7 +16,7 @@
       "to": 1000049
     }
   ],
-  "application": "19.0.0.0",
+  "application": "22.0.0.0",
   "runtime": "8.0",
   "contextSensitiveHelpUrl": "https://AppSourceCopTest.com/help/",
   "resourceExposurePolicy": {
