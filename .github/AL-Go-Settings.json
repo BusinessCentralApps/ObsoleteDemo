@@ -1,7 +1,6 @@
 {
   "type": "AppSource App",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@preview",
-  "runs-on": "bc-build",
   "updateDependencies": true,
   "licenseFileUrlSecretName": "",
   "templateSha": "becb26e1f895fb75145bbc10535afb19c09bff5c"
